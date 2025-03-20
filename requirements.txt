@@ -7,3 +7,4 @@ python-dotenv
 streamlit
 langchain-community
 sentence-transformers
+faiss-cpu
