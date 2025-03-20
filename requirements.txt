@@ -8,3 +8,6 @@ streamlit
 langchain-community
 sentence-transformers
 faiss-cpu
+torch
+torchvision
+torchaudio
